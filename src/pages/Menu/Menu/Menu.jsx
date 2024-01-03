@@ -1,6 +1,6 @@
 import { Helmet } from "react-helmet-async";
 import Cover from "../../../Shared/Cover/Cover";
-import coverImage from "../../../src/assets/menu/banner3.jpg";
+import coverImage from "../../../assets/menu/banner3.jpg";
 
 const Menu = () => {
   return (
